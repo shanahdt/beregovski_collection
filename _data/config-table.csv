@@ -3,3 +3,35 @@ title,Title
 date,Date
 description,Description
 subject,Subjects
+field,display_name,browse_link,external_link
+title,Title,
+creator,Creator,
+date,Date Created,
+description,Description,
+subject,Subjects,true
+location,Location
+latitude,Latitude
+longitude,Longitude
+source,Source
+identifier,Source Identifier,,
+type,Type,
+format,Format,
+rights,Rights,
+rightsstatement,Rights Statement,,true
+genre,Genre
+mode,Mode
+listening,Listening or Dance
+source,Source
+source-type,Source Type
+source-instrument,Source Instrument or Voice
+location,Location
+date-transcribed,Date Transcribed
+original-location,Original Location
+main-region,Main Region from Appendix B
+subregion,Subregion from Appendix B
+original-tonality,Original Tonality
+original-tonality-directional,Original Tonality Directional
+secondary-modes,Secondary Modes
+modulation-measures,Measures of Modulation
+one-mode,One Mode?
+
